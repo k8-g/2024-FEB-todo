@@ -1,4 +1,5 @@
 title,completed
 do grocery,False
 do laundry,False
-complete assignment,False
+complete assignment,True
+clear,False
